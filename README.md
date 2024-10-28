@@ -25,7 +25,7 @@
 * Community resources and forums
 * Block theme examples
 * Useful plugins
-* [Cheat Sheets](Learning-resources/cheatsheets.md)
+* [Cheat Sheets](Learning-resources/cheatsheets)
 
 ### Step-by-Step Development
 * Basic theme structure
