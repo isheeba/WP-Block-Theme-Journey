@@ -1,30 +1,31 @@
-# My Block Theme Development Journey & learnings
+# Block Theme Development Journey & learnings
 
-### Overview
+### [Overview](Overview/overview.md)
 * What is a Block Theme?
 * Why use Block Themes?
 * Key differences from Traditional(classic) Themes
 * Required tools and setup
 
-### Development Environment
+### [Development Environment](dev-setup/setup.md)
 * Local WordPress setup
 * Required plugins
 * Code editor recommendations
 * Browser dev tools
 
-### Core Concepts
+### [Core Concepts](concepts/concepts.md)
 * Theme.json configuration
 * Block templates & template parts
 * Block patterns
 * Global styles
 * Theme blocks vs Core blocks
 
-### Learning Resources
+### [Learning Resources](Learning-resources)
 * Official WordPress documentation
-* Recommended tutorials and courses
+* [Recommended tutorials and courses](Learning-resources/recommended.md)
 * Community resources and forums
 * Block theme examples
 * Useful plugins
+* [Cheat Sheets](Learning-resources/cheatsheets.md)
 
 ### Step-by-Step Development
 * Basic theme structure
@@ -40,7 +41,7 @@
 * Browser compatibility
 * Migration considerations
 
-### Workshop Materials
+### [Workshop Materials](workshop/readme.md)
 * Prerequisites checklist
 * Setup instructions
 * Hands-on exercises
