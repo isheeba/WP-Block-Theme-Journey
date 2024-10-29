@@ -6,11 +6,7 @@
 * Key differences from Traditional(classic) Themes
 * Required tools and setup
 
-### [Development Environment](dev-setup/setup.md)
-* Local WordPress setup
-* Required plugins
-* Code editor recommendations
-* Browser dev tools
+
 
 ### [Core Concepts](concepts/concepts.md)
 * Theme.json configuration
@@ -19,15 +15,8 @@
 * Global styles
 * Theme blocks vs Core blocks
 
-### [Learning Resources](Learning-resources)
-* Official WordPress documentation
-* [Recommended tutorials and courses](Learning-resources/recommended.md)
-* Community resources and forums
-* Block theme examples
-* Useful plugins
-* [Cheat Sheets](Learning-resources/cheatsheets)
 
-### Step-by-Step Development
+### [Step-by-Step Development](How-to-develop-theme/how-to.md)
 * Basic theme structure
 * Setting up theme.json
 * Creating templates
@@ -35,14 +24,17 @@
 * Adding custom block patterns
 * Testing and validation
 
-### Common Challenges & Solutions
-* Debugging tips
-* Performance optimization
-* Browser compatibility
+
+### [Development Environment Setup](dev-setup/setup.md)
+* Local WordPress setup
+* Required plugins
+* Code editor recommendations
+* Browser dev tools
 * Migration considerations
 
-### [Workshop Materials](workshop/readme.md)
-* Prerequisites checklist
+
+### [Workshop Materials](Workshop/Workshop.md)
+* [Prerequisites checklist](Workshop/Prerequisites.md)
 * Setup instructions
 * Hands-on exercises
 * Code snippets

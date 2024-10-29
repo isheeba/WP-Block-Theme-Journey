@@ -7,4 +7,4 @@
 * Community resources and forums
 * Block theme examples
 * Useful plugins
-* # [CheatSheets](cheatsheets.md)
+* [CheatSheets](cheatsheets.md)
