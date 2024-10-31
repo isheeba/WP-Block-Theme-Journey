@@ -4,6 +4,7 @@
 * What is a Block Theme?
 * Why use Block Themes?
 * Key differences from Traditional(classic) Themes
+* What is Block Editor and Site Editor?
 * Required tools and setup
 
 
