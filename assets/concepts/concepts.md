@@ -63,30 +63,7 @@ register_block_pattern(
     )
 );
 ```
-<code_block_to_apply_changes_from>
-```json
-{
-    "apiVersion": 2,
-    "name": "mytheme/custom-block",
-    "title": "Custom Block",
-    "category": "widgets",
-    "icon": "smiley",
-    "description": "A custom block example",
-    "supports": {
-        "html": false
-    },
-    "textdomain": "mytheme",
-    "editorScript": "file:./index.js",
-    "editorStyle": "file:./index.css",
-    "style": "file:./style-index.css"
-}
-```
 
-## Best Practices
-- 📱 Design mobile-first
-- ♿ Ensure accessibility
-- 🚀 Optimize performance
-- 🔄 Use version control
 
 ## Global Styles
 Control site-wide appearance through:
@@ -108,21 +85,21 @@ Control site-wide appearance through:
 - Requires maintenance
 - Created using block.json
 
-#### Custom Block Example
-<code_block_to_apply_changes_from>
+gc### Custom Block Example
 ```json
 {
-"apiVersion": 2,
-"name": "mytheme/custom-block",
-"title": "Custom Block",
-"category": "widgets",
-"icon": "smiley",
-"description": "A custom block example",
-"supports": {
-"html": false
-},
-"textdomain": "mytheme",
-"editorScript": "file:./index.js",
-"editorStyle": "file:./index.css",
-"style": "file:./style-index.css"
-}'''
+    "apiVersion": 2,
+    "name": "mytheme/custom-block",
+    "title": "Custom Block",
+    "category": "widgets",
+    "icon": "smiley",
+    "description": "A custom block example",
+    "supports": {
+        "html": false
+    },
+    "textdomain": "mytheme",
+    "editorScript": "file:./index.js",
+    "editorStyle": "file:./index.css",
+    "style": "file:./style-index.css"
+}
+```
