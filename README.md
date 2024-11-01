@@ -3,14 +3,14 @@ When I first explored block themes, I found myself more confused than informed�
 
 ## What's Inside
 
-	•	🔗 Links to official documentation and valuable community resources
+	•	🔗 Links to documentation and valuable community resources
 	•	💡 My own notes and key references I found helpful
 	•	⚠️ Common pitfalls and troubleshooting advice
 	•	📝 Comprehensive setup notes and explanations
 
 This repository might serves as your practical guide to modern WordPress theme development.
 
-Getting Started
+### Getting Started
 
 Navigate by topic or follow the structured learning path, progressing from foundational concepts to advanced techniques. Each section includes supplementary links to deepen your knowledge.
 
