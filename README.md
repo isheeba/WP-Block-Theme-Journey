@@ -17,7 +17,7 @@
 * Theme blocks vs Core blocks
 
 
-### [Step-by-Step Development](How-to-develop-theme/how-to.md)
+### [Step-by-Step Development](How-to-develop/how-to.md)
 * Basic theme structure
 * Setting up theme.json
 * Creating templates
@@ -26,7 +26,7 @@
 * Testing and validation
 
 
-### [Development Environment Setup](dev-setup/setup.md)
+### [Development Environment Setup](setup/setup.md)
 * Local WordPress setup
 * Required plugins
 * Code editor recommendations
