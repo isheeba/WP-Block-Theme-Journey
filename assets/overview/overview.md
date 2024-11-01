@@ -1,3 +1,5 @@
+[⬅️ Take me back Home 🏡](../../README.md)
+
 - What is a Block Theme?
 
   - [WordPress Block Theme Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/)

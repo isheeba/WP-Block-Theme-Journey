@@ -1,3 +1,5 @@
+[⬅️ Take me back Home 🏡](../../README.md)
+
 # Development Environment Setup  
 ## Local WordPress setup
   - [File structure](https://learn.wordpress.org/lesson/the-wordpress-file-structure/)
