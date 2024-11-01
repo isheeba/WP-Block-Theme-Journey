@@ -1,4 +1,19 @@
 # Block Theme Development Journey & learnings
+When I first explored block themes, I found myself more confused than informed—there were countless docs and tutorials, yet navigating them only added to the challenge. In this repository, I’ve gathered the links, resources, and notes that helped me make sense of it all. While this isn’t a definitive guide, it’s what worked for me and might just offer clarity to others beginning their WP block theme journey. Sharing in the hope it makes things a little easier for someone else.
+
+## What's Inside
+
+	•	🔗 Links to official documentation and valuable community resources
+	•	💡 My own notes and key references I found helpful
+	•	⚠️ Common pitfalls and troubleshooting advice
+	•	📝 Comprehensive setup notes and explanations
+
+This repository might serves as your practical guide to modern WordPress theme development.
+
+Getting Started
+
+Navigate by topic or follow the structured learning path, progressing from foundational concepts to advanced techniques. Each section includes supplementary links to deepen your knowledge.
+
 
 ### [Overview](assets/overview/overview.md)
 * [What is a Block Theme?](assets/overview/overview.md#what-is-a-block-theme)
