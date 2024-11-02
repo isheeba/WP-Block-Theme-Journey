@@ -10,7 +10,7 @@
 - [When Block Theme Might Not Work](#when-block-theme-might-not-work)
 - [What is Block Editor and Site Editor?](#what-is-block-editor-and-site-editor)
 - [Required tools and setup](#required-tools-and-setup)
-- [What I Use](#what-i-use)
+
 
 ## What is a Block Theme?
 - [WordPress Block Theme Documentation](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/)
@@ -49,19 +49,7 @@
 
 ## What is Block Editor and Site Editor?
 - The Block Editor only allows us to add content to pages and posts.
-- Site Editor gives you the ability to edit your site cohesively. You can edit the look and feel, modify templates, and add content to pages.
-
-| Feature                     | Block Editor                         | Site Editor                             |
-|-----------------------------|--------------------------------------|-----------------------------------------|
-| Purpose                     | Content editing for posts/pages      | Full site customization and layout      |
-| Scope                       | Individual posts or pages            | Entire site design                      |
-| Interface                   | Block-based interface                | Site-wide editing interface             |
-| Elements                    | Supports various content blocks      | Allows customization of templates       |
-| Navigation                  | Accessible via post/page editor      | Accessed through the WordPress admin    |
-| User Experience             | Focused on content creation          | Emphasizes overall site appearance      |
-| Theme Integration           | Limited to post-related templates    | Full access to theme templates          |
-| Customization               | Individual block settings            | Global settings for site-wide elements  |
-| Live Preview                | Instant preview of post changes      | Real-time site layout preview           |
+-Site Editor gives you the ability to edit your site cohesively. You can edit the look and feel, modify templates, and add content to pages.
 
 ## Required tools and setup
 

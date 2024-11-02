@@ -22,6 +22,7 @@ When I first delved into block themes, I found the abundance of guides overwhelm
 * [What is Block Editor and Site Editor?](assets/overview/overview.md#what-is-block-editor-and-site-editor)
 * [Required tools and setup](assets/overview/overview.md#required-tools-and-setup)
 
+
 ## [Core Concepts](assets/concepts/concepts.md)
 * [Theme.json Configuration](assets/concepts/concepts.md#themejson-configuration)
 * [Block Templates & Template Parts](assets/concepts/concepts.md#block-templates--template-parts)
@@ -46,7 +47,6 @@ When I first delved into block themes, I found the abundance of guides overwhelm
 * [Adding custom block patterns](assets/build/build.md#adding-custom-block-patterns)
 * [Exporting](assets/build/build.md#exporting)
 * [Minimum requirement](assets/build/build.md#minimum-requirement)
-* [Steps I followed](assets/build/build.md#steps-i-followed)
 * [Troubleshooting/FAQ](assets/build/build.md#troubleshootingfaq)
 
 
