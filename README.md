@@ -1,18 +1,14 @@
-# Block Theme Development Journey & learnings
-When I first explored block themes, I found myself more confused than informed—there were countless docs and tutorials, yet navigating them only added to the challenge. In this repository, I’ve gathered the links, resources, and added my notes that helped me make sense of it all. While this isn’t a definitive guide, it’s what worked for me and might just offer clarity to others beginning their WP block theme journey. Sharing in the hope it makes things a little easier for someone else.
+# Block Themes: My Learning Path
+When I first delved into block themes, I found the abundance of guides overwhelming rather than helpful. In this repository, I’ve compiled the links, resources, and personal notes that finally made things click for me. While it’s not a definitive guide, I hope it provides some clarity for others starting their WP block theme journey.
 
-## What's Inside
+What’s Inside
+	•	🔗 Key documentation and resources
+	•	💡 Personal notes and insights
+	•	⚠️ Troubleshooting tips
+	•	📝 Setup guides and explanations
 
-	•	🔗 Links to documentation and valuable community resources
-	•	💡 My own notes and key references I found helpful
-	•	⚠️ Common pitfalls and troubleshooting advice
-	•	📝 Comprehensive setup notes and explanations
-
-This repository might serves as your practical guide to modern WordPress theme development.
-
-### Getting Started
-
-Navigate by topic or follow the structured learning path, progressing from foundational concepts to advanced techniques. Each section includes supplementary links to deepen your knowledge.
+> [!CAUTION] Disclaimer
+> This repository reflects my personal understanding of WordPress block themes and is intended as a learning resource. Please note that while I’ve done my best to ensure accuracy, some information may not fully align with official practices or guidelines. I encourage you to cross-reference with primary sources and community insights as you explore. This is a work in progress, and feedback is always welcome!
 
 --- 
 ### [Overview](assets/overview/overview.md)
