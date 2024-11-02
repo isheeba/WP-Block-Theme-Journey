@@ -12,12 +12,12 @@
 * If you have `index.php` in the theme files - then classic
 
 ## How to identify theme type from backend?
-* If it is a classic theme, then you would see under appearance Customise, widgets menus
-* If it is a block theme, then you would see under appearance Editor instead of customize, no widgets or menu.s
+* If it is a classic theme, then you would see under appearance Customise, widgets and menus
+* If it is a block theme, then you would see under appearance Editor instead of customize (no widgets or menus)
 
 ## What is displayed on the frontend with minimum files?
-* *Classic Theme :*  white screen
-* *Block Theme :* "Empty template: Index"
+* *Classic Theme :*  You see a white screen, no header/footer, wpadminbar
+* *Block Theme :* "Empty template: Index". (with wpadminbar - if logged in)
 
 
 
