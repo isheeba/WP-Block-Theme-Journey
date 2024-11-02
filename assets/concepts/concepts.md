@@ -2,6 +2,18 @@
 
 # Core Concepts
 
+## Table of Contents
+- [Theme.json Configuration](#themejson-configuration)
+- [Block Templates & Template Parts](#block-templates--template-parts)
+  - [Templates](#templates)
+  - [Template Parts](#template-parts)
+- [Block Patterns](#block-patterns)
+- [Global Styles](#global-styles)
+- [Theme Blocks vs Core Blocks](#theme-blocks-vs-core-blocks)
+  - [Core Blocks](#core-blocks)
+  - [Theme Blocks](#theme-blocks)
+  - [Custom Block Example](#custom-block-example)
+
 ## Theme.json Configuration
 Theme.json is the foundation of block themes, controlling:
 
@@ -9,8 +21,6 @@ Theme.json is the foundation of block themes, controlling:
 - ⚙️ Block-level settings
 - 🎯 Custom properties
 - 🖼️ Layout defaults
-
- 
 
 ## Block Templates & Template Parts
 | Feature             | Template                                                 | Template Part                                              |
@@ -70,7 +80,7 @@ Control site-wide appearance through:
 - Requires maintenance
 - Created using block.json
 
-gc### Custom Block Example
+### Custom Block Example
 ```json
 {
     "apiVersion": 2,

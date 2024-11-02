@@ -1,5 +1,11 @@
+[⬅️ Take me back Home 🏡](../../README.md)
+
 # Workshop Materials
-## [Prerequisites checklist](Prerequisites.md)
-## Setup instructions
-## Hands-on exercises
-## Code snippets
+
+## Table of Contents
+- [Prerequisites checklist](#prerequisites-checklist)
+- [Setup instructions](#setup-instructions)
+- [Hands-on exercises](#hands-on-exercises)
+- [Code snippets](#code-snippets)
+
+// ... rest of existing content ...

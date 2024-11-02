@@ -1,6 +1,15 @@
 [⬅️ Take me back Home 🏡](../../README.md)
 
-# Development Environment Setup  
+# Development Environment Setup
+
+## Table of Contents
+- [Local WordPress setup](#local-wordpress-setup)
+- [Required plugins](#required-plugins)
+  - [For Debugging](#for-debugging)
+- [Code editor recommendations](#code-editor-recommendations)
+- [Browser dev tools](#browser-dev-tools)
+- [Classic to Block Theme Migration Steps](#classic-to-block-theme-migration-steps)
+
 ## Local WordPress setup
   - [File structure](https://learn.wordpress.org/lesson/the-wordpress-file-structure/)
   - Node.js
