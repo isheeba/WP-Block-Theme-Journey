@@ -37,7 +37,7 @@ What’s Inside
 * [Classic to Block Theme Migration Steps](assets/setup/setup.md#classic-to-block-theme-migration-steps)
 
 
-## [How to build your block theme](assets/build/build.md)
+## [How to build a block theme](assets/build/build.md)
 * [Basic theme structure](assets/build/build.md#basic-theme-structure)
 * [Setting up theme.json](assets/build/build.md#setting-up-themejson)
 * [Creating templates](assets/build/build.md#creating-templates)
@@ -63,8 +63,6 @@ What’s Inside
 
 ### [Workshop Materials](assets/workshop/workshop.md)
 * [Prerequisites](assets/workshop/prerequisites.md)
-* [Required Items](assets/workshop/prerequisites.md#required-items)
-* [Knowledge Requirements](assets/workshop/prerequisites.md#knowledge-requirements)
 * [Setup instructions](assets/workshop/workshop.md#setup-instructions)
 * [Hands-on exercises](assets/workshop/workshop.md#hands-on-exercises)
 * [Code snippets](assets/workshop/workshop.md#code-snippets)
