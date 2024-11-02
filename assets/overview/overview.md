@@ -48,8 +48,20 @@
 - If a client is not involved in creating content beyond simple text, a traditional theme is the best choice.
 
 ## What is Block Editor and Site Editor?
-The Block Editor only allows us to add content to pages and posts.
-Site Editor gives you the ability to edit your site cohesively. You can edit the look and feel, modify templates, and add content to pages.
+- The Block Editor only allows us to add content to pages and posts.
+- Site Editor gives you the ability to edit your site cohesively. You can edit the look and feel, modify templates, and add content to pages.
+
+| Feature                     | Block Editor                         | Site Editor                             |
+|-----------------------------|--------------------------------------|-----------------------------------------|
+| Purpose                     | Content editing for posts/pages      | Full site customization and layout      |
+| Scope                       | Individual posts or pages            | Entire site design                      |
+| Interface                   | Block-based interface                | Site-wide editing interface             |
+| Elements                    | Supports various content blocks      | Allows customization of templates       |
+| Navigation                  | Accessible via post/page editor      | Accessed through the WordPress admin    |
+| User Experience             | Focused on content creation          | Emphasizes overall site appearance      |
+| Theme Integration           | Limited to post-related templates    | Full access to theme templates          |
+| Customization               | Individual block settings            | Global settings for site-wide elements  |
+| Live Preview                | Instant preview of post changes      | Real-time site layout preview           |
 
 ## Required tools and setup
 

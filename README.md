@@ -36,10 +36,20 @@ What’s Inside
 * [Browser dev tools](assets/setup/setup.md#browser-dev-tools)
 * [Classic to Block Theme Migration Steps](assets/setup/setup.md#classic-to-block-theme-migration-steps)
 
-### [Troubleshooting/FAQ](assets/build/debugging.md)
-* [How does WordPress identify theme type?](assets/build/debugging.md#how-does-wordpress-identify-theme-type)
-* [How to identify theme type from backend?](assets/build/debugging.md#how-to-identify-theme-type-from-backend)
-* [What displays with minimum files?](assets/build/debugging.md#what-displays-with-minimum-files)
+
+## [How to Step-by-Step Develop the theme](assets/build/build.md)
+* [Basic theme structure](assets/build/build.md#basic-theme-structure)
+* [Setting up theme.json](assets/build/build.md#setting-up-themejson)
+* [Creating templates](assets/build/build.md#creating-templates)
+* [Building template parts](assets/build/build.md#building-template-parts)
+* [Adding custom block patterns](assets/build/build.md#adding-custom-block-patterns)
+* [Exporting](assets/build/build.md#exporting)
+* [Minimum requirement](assets/build/build.md#minimum-requirement)
+* [Steps I followed](assets/build/build.md#steps-i-followed)
+* [Troubleshooting/FAQ](assets/build/build.md#troubleshootingfaq)
+
+
+
 
 ### [Learning Resources](assets/resources/resources.md)
 * [Official WordPress documentation](assets/resources/resources.md#official-wordpress-documentation)

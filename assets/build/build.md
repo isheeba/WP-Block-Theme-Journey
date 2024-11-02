@@ -2,6 +2,17 @@
 
 # How to Step-by-Step Develop the theme 
 
+## Table of Contents
+- [Basic theme structure](#basic-theme-structure)
+- [Setting up theme.json](#setting-up-themejson)
+- [Creating templates](#creating-templates)
+- [Building template parts](#building-template-parts)
+- [Adding custom block patterns](#adding-custom-block-patterns)
+- [Exporting](#exporting)
+- [Minimum requirement](#minimum-requirement)
+- [Steps I followed](#steps-i-followed)
+- [Troubleshooting/FAQ](#troubleshootingfaq)
+
 ## Basic theme structure
 
 ## Setting up theme.json
@@ -31,11 +42,9 @@
 ## Exporting
 
 
-<details open>
+### Minimum requirement
 
-<summary>Minimum requirement</summary>
-
-### [For theme](https://developer.wordpress.org/themes/basics/organizing-theme-files/)
+#### [For theme](https://developer.wordpress.org/themes/basics/organizing-theme-files/)
 
 | [Classic](https://developer.wordpress.org/themes/releasing-your-theme/required-theme-files/)    | [Block](https://make.wordpress.org/themes/handbook/review/required/#11-block-themes) | Required/download |
 | -------- | ------- | ------- |
@@ -44,19 +53,19 @@
 | :x:   |  theme.json   |Distribute Theme   |
 | :x:   |  readme.txt   |Distribute Theme     |
 | screenshot.png   |  screenshot.png   |Distribute Theme   |
-  <details open>
 
-  <summary>Minimum requirement for child theme</summary>
+#### Minimum requirement for child theme 
   style.css (template name and theme name)
 
-  </details>
-</details> 
-
+ 
 
 ### Steps I followed
 * Add `style.css` + `index.html` : shows `Empty template: Index` on front-end
 * Added header and footer : Site-editor => Patterns => Add New patterns
-* 
+*
 
 
-### [Debugging](debugging.md)
+### [Troubleshooting/FAQ](debugging.md)
+* [How does WordPress identify theme type?](debugging.md#how-does-wordpress-identify-theme-type)
+* [How to identify theme type from backend?](debugging.md#how-to-identify-theme-type-from-backend)
+* [What displays with minimum files?](debugging.md#what-displays-with-minimum-files)
