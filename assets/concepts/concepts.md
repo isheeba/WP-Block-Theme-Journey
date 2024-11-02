@@ -10,26 +10,16 @@ Theme.json is the foundation of block themes, controlling:
 - 🎯 Custom properties
 - 🖼️ Layout defaults
 
-### Key Sections
-```json
-{
-    "version": 2,
-    "settings": {
-        "color": {
-            "palette": [],
-            "gradients": []
-        },
-        "typography": {
-            "fontSizes": [],
-            "fontFamilies": []
-        },
-        "layout": {}
-    },
-    "styles": {}
-}
-```
+ 
 
 ## Block Templates & Template Parts
+| Feature             | Template                                                 | Template Part                                              |
+|---------------------|----------------------------------------------------------|------------------------------------------------------------|
+| **Purpose**         | Defines overall page layout                              | Defines reusable sections within a template                |
+| **Scope**           | Full page or post layout                                 | Specific parts like headers, footers, or sidebars          |
+| **Editing Location**| Accessible in Full Site Editor                           | Managed within Template Part editor or Full Site Editor    |
+| **Reusability**     | Limited to the specific page/post types                  | Can be reused across multiple templates and parts of a site|
+| **Modification**    | Changes apply to the specific template only              | Changes apply to all instances of the template part        |
 
 ### Templates
 Core templates that define your site's structure:
@@ -52,18 +42,13 @@ Pre-designed block layouts that can be:
 - 🎨 Customized for consistency
 - 📦 Packaged with themes
 
-### Pattern Registration
-```php
-register_block_pattern(
-    'mytheme/my-pattern',
-    array(
-        'title'       => __('My Pattern', 'mytheme'),
-        'description' => __('A custom pattern.', 'mytheme'),
-        'content'     => '<!-- wp:group -->'
-    )
-);
-```
-
+| Feature            | Template Part                                         | Pattern                                          |
+|--------------------|-------------------------------------------------------|--------------------------------------------------|
+| **Purpose**        | For reusable structural elements (header, footer)      | For quick layout and design of complex block setups |
+| **Definition**     | Defined in PHP, often used in theme templates          | Created in the block editor; no coding required    |
+| **Customization**  | Limited; generally consistent across pages             | Highly customizable; users can adjust blocks and styles |
+| **Use Cases**      | Headers, footers, sidebars                             | Call-to-action sections, testimonials, galleries   |
+| **User Access**    | Mostly for theme developers                            | Accessible to any editor within the block editor   |
 
 ## Global Styles
 Control site-wide appearance through:

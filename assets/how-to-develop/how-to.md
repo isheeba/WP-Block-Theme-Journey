@@ -52,4 +52,11 @@
   </details>
 </details> 
 
+
+### Steps I followed
+* Add `style.css` + `index.html` : shows `Empty template: Index` on front-end
+* Added header and footer : Site-editor => Patterns => Add New patterns
+* 
+
+
 ### [Debugging](debugging.md)
