@@ -36,6 +36,15 @@ Navigate by topic or follow the structured learning path, progressing from found
 * [Browser dev tools](assets/setup/setup.md#browser-dev-tools)
 * [Migration considerations](assets/setup/setup.md#migration-considerations)
 
+### [Step-by-Step Development](assets/how-to-develop/how-to.md)
+* [Basic theme structure](assets/how-to-develop/how-to.md#basic-theme-structure)
+* Setting up theme.json
+* [Creating templates](assets/how-to-develop/how-to.md#creating-templates)
+* [Exporting](assets/how-to-develop/how-to.md#exporting)
+* [Debugging](assets/how-to-develop/debugging.md)
+
+
+
 ### [Learning Resources](assets/resources/resources.md)
 * [Recommended tutorials and courses](assets/resources/recommended.md)
 * Community resources and forums
