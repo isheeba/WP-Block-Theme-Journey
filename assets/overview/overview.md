@@ -37,25 +37,25 @@
 > [!NOTE]
 > Block themes are great for creative clients, traditional themes suit corporate branding
 
-<details>
+<details open>
 <summary>When block Theme is ideal</summary>
 - Clients who prefer hands-on design and are comfortable using WordPress's design tools.
-</details>
+</details><HR>
 
-<details>
+<details open>
 <summary>When block Theme might not work</summary>
 -  Large businesses with strict branding standards where design consistency is crucial.
 - If a client is not involved in creating content beyond simple text, a traditional theme is the best choice.
 
-</details>
+</details><HR>
 
-<details>
+<details open>
 <summary>What is Block Editor and Site Editor?</summary>
 
 The Block Editor only allows us to add content to pages and posts.
 Site Editor gives you the ability to edit your site cohesively. You can edit the look and feel, modify templates, and add content to pages.
 
-</details>
+</details><HR>
 
 ## Required tools and setup
 
@@ -68,4 +68,4 @@ Site Editor gives you the ability to edit your site cohesively. You can edit the
 
 - IDE : [Cursor](https://www.cursor.com) based on [vscode](https://code.visualstudio.com)
 - Local Env setup : [Local](https://localwp.com) (alternative [studio](https://developer.wordpress.com/studio/) )
-</details>
+</details><HR>

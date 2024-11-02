@@ -31,7 +31,7 @@
 ## Exporting
 
 
-<details>
+<details open>
 
 <summary>Minimum requirement</summary>
 
@@ -44,7 +44,7 @@
 | :x:   |  theme.json   |Distribute Theme   |
 | :x:   |  readme.txt   |Distribute Theme     |
 | screenshot.png   |  screenshot.png   |Distribute Theme   |
-  <details>
+  <details open>
 
   <summary>Minimum requirement for child theme</summary>
   style.css (template name and theme name)
