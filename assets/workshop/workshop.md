@@ -7,5 +7,3 @@
 - [Setup instructions](#setup-instructions)
 - [Hands-on exercises](#hands-on-exercises)
 - [Code snippets](#code-snippets)
-
-// ... rest of existing content ...
