@@ -34,6 +34,11 @@ What’s Inside
 * [Browser dev tools](assets/setup/setup.md#browser-dev-tools)
 * [Classic to Block Theme Migration Steps](assets/setup/setup.md#classic-to-block-theme-migration-steps)
 
+### [Troubleshooting/FAQ](assets/build/debugging.md)
+* [How does WordPress identify theme type?](assets/build/debugging.md#how-does-wordpress-identify-theme-type)
+* [How to identify theme type from backend?](assets/build/debugging.md#how-to-identify-theme-type-from-backend)
+* [What displays with minimum files?](assets/build/debugging.md#what-displays-with-minimum-files)
+
 ### [Learning Resources](assets/resources/resources.md)
 * [Official WordPress documentation](assets/resources/resources.md#official-wordpress-documentation)
 * [Recommended tutorials and courses](assets/resources/resources.md#recommended-tutorials-and-courses)
@@ -45,8 +50,9 @@ What’s Inside
 * [FreeCodeCamp's Tutorials](assets/resources/resources.md#freecodecamps-tutorials)
 
 ### [Workshop Materials](assets/workshop/workshop.md)
-* [Prerequisites](assets/workshop/prerequisites.md#prerequisites)
+* [Prerequisites](assets/workshop/prerequisites.md)
 * [Required Items](assets/workshop/prerequisites.md#required-items)
+* [Knowledge Requirements](assets/workshop/prerequisites.md#knowledge-requirements)
 * [Setup instructions](assets/workshop/workshop.md#setup-instructions)
 * [Hands-on exercises](assets/workshop/workshop.md#hands-on-exercises)
 * [Code snippets](assets/workshop/workshop.md#code-snippets)

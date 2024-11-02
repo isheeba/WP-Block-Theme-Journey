@@ -3,7 +3,7 @@
 # Workshop Materials
 
 ## Table of Contents
-- [Prerequisites checklist](#prerequisites-checklist)
+- [Prerequisites](prerequisites.md)
 - [Setup instructions](#setup-instructions)
 - [Hands-on exercises](#hands-on-exercises)
 - [Code snippets](#code-snippets)
