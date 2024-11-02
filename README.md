@@ -38,7 +38,7 @@ Navigate by topic or follow the structured learning path, progressing from found
 
 ### [Step-by-Step Development](assets/how-to-develop/how-to.md)
 * [Basic theme structure](assets/how-to-develop/how-to.md#basic-theme-structure)
-* Setting up theme.json
+* [Setting up theme.json](assets/how-to-develop/how-to.md#setting-up-themejson)
 * [Creating templates](assets/how-to-develop/how-to.md#creating-templates)
 * [Exporting](assets/how-to-develop/how-to.md#exporting)
 * [Debugging](assets/how-to-develop/debugging.md)
@@ -47,9 +47,9 @@ Navigate by topic or follow the structured learning path, progressing from found
 
 ### [Learning Resources](assets/resources/resources.md)
 * [Recommended tutorials and courses](assets/resources/recommended.md)
-* Community resources and forums
-* Block theme examples
-* Useful plugins
+* [Community resources and forums](assets/resources/resources.md#community-resources-and-forums)
+* [Block theme examples](assets/resources/resources.md#block-theme-examples)
+* [Useful plugins](assets/resources/resources.md#useful-plugins)
 * [CheatSheets](assets/resources/cheatsheets.md)
 * [Additional Resources](assets/resources/resources.md#additional-resources)
 
