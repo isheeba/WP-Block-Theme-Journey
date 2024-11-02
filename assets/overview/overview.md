@@ -38,7 +38,7 @@
 |                     |                    |                            |
 
 > [!NOTE]
-> Block themes are great for creative clients, traditional themes suit corporate branding
+> Block themes are great for creative clients, traditional (classic) themes suit corporates, better for branding
 
 ## When Block Theme is Ideal
 - Clients who prefer hands-on design and are comfortable using WordPress's design tools.
@@ -57,6 +57,7 @@ Site Editor gives you the ability to edit your site cohesively. You can edit the
 - [Create Block Theme Plugin](https://wordpress.org/plugins/create-block-theme/)
 - [Theme Development Environment Setup](https://developer.wordpress.org/block-editor/getting-started/tutorials/block-based-themes/)
 
-## What I Use
+### What I Use : my local setup
 - IDE : [Cursor](https://www.cursor.com) based on [vscode](https://code.visualstudio.com)
 - Local Env setup : [Local](https://localwp.com) (alternative [studio](https://developer.wordpress.com/studio/) )
+
