@@ -1,6 +1,6 @@
 [⬅️ Take me back Home 🏡](../../README.md)
 
-# How to Step-by-Step Develop the theme 
+# How to build your block theme
 
 ## Table of Contents
 - [Basic theme structure](#basic-theme-structure)

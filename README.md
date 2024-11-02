@@ -37,7 +37,7 @@ What’s Inside
 * [Classic to Block Theme Migration Steps](assets/setup/setup.md#classic-to-block-theme-migration-steps)
 
 
-## [How to Step-by-Step Develop the theme](assets/build/build.md)
+## [How to build your block theme](assets/build/build.md)
 * [Basic theme structure](assets/build/build.md#basic-theme-structure)
 * [Setting up theme.json](assets/build/build.md#setting-up-themejson)
 * [Creating templates](assets/build/build.md#creating-templates)
