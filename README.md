@@ -7,7 +7,7 @@ What’s Inside
 	•	⚠️ Troubleshooting tips
 	•	📝 Setup guides and explanations
 
-> [!CAUTION] Disclaimer
+>  **Disclaimer** <BR>
 > This repository reflects my personal understanding of WordPress block themes and is intended as a learning resource. Please note that while I’ve done my best to ensure accuracy, some information may not fully align with official practices or guidelines. I encourage you to cross-reference with primary sources and community insights as you explore. This is a work in progress, and feedback is always welcome!
 
 --- 
