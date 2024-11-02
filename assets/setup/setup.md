@@ -12,8 +12,7 @@
 
 ## Code editor recommendations
 ## Browser dev tools
-## Migration considerations
-### Classic to Block Theme Migration Steps
+## Classic to Block Theme Migration Steps
 1. Backup website.
 1. Setup Staging site
 1. Select, install, activate, or create a Block Theme.

@@ -34,14 +34,14 @@ Navigate by topic or follow the structured learning path, progressing from found
 * [Required plugins](assets/setup/setup.md#required-plugins)
 * [Code editor recommendations](assets/setup/setup.md#code-editor-recommendations)
 * [Browser dev tools](assets/setup/setup.md#browser-dev-tools)
-* [Migration considerations](assets/setup/setup.md#migration-considerations)
+* [Classic to Block Theme Migration Steps](assets/setup/setup.md#classic-to-block-theme-migration-steps)
 
-### [Step-by-Step Development](assets/how-to-develop/how-to.md)
-* [Basic theme structure](assets/how-to-develop/how-to.md#basic-theme-structure)
-* [Setting up theme.json](assets/how-to-develop/how-to.md#setting-up-themejson)
-* [Creating templates](assets/how-to-develop/how-to.md#creating-templates)
-* [Exporting](assets/how-to-develop/how-to.md#exporting)
-* [Debugging](assets/how-to-develop/debugging.md)
+### [Build the theme](assets/build/how-to.md)
+* [Basic theme structure](assets/build/how-to.md#basic-theme-structure)
+* [Setting up theme.json](assets/build/how-to.md#setting-up-themejson)
+* [Creating templates](assets/build/how-to.md#creating-templates)
+* [Exporting](assets/build/how-to.md#exporting)
+* [Debugging](assets/build/debugging.md)
 
 
 
