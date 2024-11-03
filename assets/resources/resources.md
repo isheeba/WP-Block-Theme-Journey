@@ -19,6 +19,8 @@
 
 
 ## WordPress documentation
+* [Ease into block Theme development](https://learn.wordpress.org/course/develop-your-first-low-code-block-theme/)
+* [Learning Theme development from Zero](https://gutenbergtimes.com/videos-zero-to-block-theme-parts-1-5/) 
 
 ## Community resources and forums
 
@@ -27,6 +29,11 @@
 ### Playlists
 * [Learn Block Themes from scratch](https://www.youtube.com/playlist?list=PLbMkvFuaj0FScHxn9yubiXD_Z_iT5WUoK)
 * [Upgrading from Classic to Block theme developer](https://youtube.com/playlist?list=PLQcI8rUOscv1gGwzjTHIUPdNTsKOd9Vwh&si=NWpQpqvIv47ZhLLR)
+
+### helpful tips
+* [Hacks](https://www.youtube.com/watch?v=wmIZ5w7MFng) 
+* [Understanding JSON ](https://wordpress.tv/2022/09/02/lets-code-diving-into-theme-json/)
+* [How to restrict client from making unwanted design changes](https://www.youtube.com/watch?v=6lBIkf3xNDw)
 
 ## Block theme examples
 

@@ -19,5 +19,20 @@
 * *Classic Theme :*  You see a white screen, no header/footer, wpadminbar
 * *Block Theme :* "Empty template: Index". (with wpadminbar - if logged in)
 
+## My theme.json custom settings are not reflecting.
+* some of the syntax of theme.json might be invalid. use your IDE to check or validate on 
 
-
+## JSON Formatting - Highlights
+* Data is in name/value pairs
+* Data is separated by commas
+* Objects are encapsulated within the opening and closing curly brackets `{}`
+* Arrays are encapsulated within opening and closing square brackets `[]`
+* A member is represented by a key-value pair, contained in double quotes
+* Each member should have a unique key within an object structure
+* String : value of a member must be contained in double quotes
+* Boolean : are represented using the true or false literals in lower case
+* Number : are represented using double-precision floating-point format and * shouldn't have leading zeroes
+* "Offensive" characters in a string need to be escaped using the backslash * character \
+* Null values are represented by the null literal in lower case
+* Each member of an object or array value must be followed by a comma, except for the last one
+* The standard extension for the JSON file is '.json'

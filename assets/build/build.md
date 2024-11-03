@@ -26,6 +26,8 @@
 - `<theme_name>/theme.json` - Theme settings
 - `User Configured` - Within the Site Editor any changes that are added to the database through changes made to global styles or even templates and saved. This will override and takes priority over all other levels in the hierarchy.
 
+### What does appearanceTools do ?
+The appearanceTools setting in WordPress, specifically in theme.json, enables users to access additional styling options in the Site Editor or Block Editor. When set to true, it unlocks controls for customizing colors, typography (font size, line height), spacing (margin, padding), and other design settings. This setting helps users tweak the look and feel of individual blocks and overall site styles more freely, making theme customization more flexible without custom code.
 
 ## Creating templates
 #### Common Templates
