@@ -23,12 +23,21 @@
 * [Learning Theme development from Zero](https://gutenbergtimes.com/videos-zero-to-block-theme-parts-1-5/) 
 
 ## Community resources and forums
-
+* [Introduction to theme.json](https://make.wordpress.org/core/2021/06/25/introducing-theme-json-in-wordpress-5-8/)
 
 ## Recommended tutorials and courses
 ### Playlists
 * [Learn Block Themes from scratch](https://www.youtube.com/playlist?list=PLbMkvFuaj0FScHxn9yubiXD_Z_iT5WUoK)
 * [Upgrading from Classic to Block theme developer](https://youtube.com/playlist?list=PLQcI8rUOscv1gGwzjTHIUPdNTsKOd9Vwh&si=NWpQpqvIv47ZhLLR)
+
+
+### Specific Area Tips and help
+* [Setting and using Variables](https://www.youtube.com/watch?v=yp79sJ36K74) 
+* [How to Split Theme.json into Multiple Files with WordPress](https://fullstackdigital.io/blog/split-theme-json-into-multiple-files-with-wordpress/)
+* [Best Practices](https://gutenberg.10up.com/reference/Themes/theme-json/)
+*  [Create a WordPress Block Theme from Scratch](https://youtu.be/6wUTRjjb-Ho?si=AbFt0K-vBfrf27a7&t=2524)  
+* ![10up : Grapical representation of styles inherited via theme.json](https://gutenberg.10up.com/assets/images/global-styles-input-output-f1367794eb935ca00e653bcfb90f8a4a.png)
+
 
 ### helpful tips
 * [Hacks](https://www.youtube.com/watch?v=wmIZ5w7MFng) 

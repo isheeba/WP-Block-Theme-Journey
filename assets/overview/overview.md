@@ -35,7 +35,9 @@
 | Migrate             |      Git/FTP       | Export, Git                |
 | Export Theme        |        :x:         | combines DB + theme files. |
 | Child Theme         | :white_check_mark: | :white_check_mark:         |
-|                     |                    |                            |
+| Installed theme Vs theme repo screenshots    | Doesnt match mostly | Looks the same as screenshots |
+| Template file formats | PHP | HTML |
+| CSS Styling comes from | style.css | theme.json |
 
 > [!NOTE]
 > Block themes are great for creative clients, traditional (classic) themes suit corporates, better for branding

@@ -19,6 +19,24 @@
 - [JSON Guide](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/)
 - [version](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/)
 
+### JSON top-level objects
+```json
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": 2, // Which level of settings are in use 
+  "title": "",
+	"description": "",
+	"settings": {},
+	"styles": {},
+  "patterns": [],
+	"templateParts": [],
+  "customTemplates": [],
+}
+```
+
+### WHat is the significance of `"$schema": "https://schemas.wp.org/wp/6.5/theme.json",` 
+- This will give you autocomplete and inline documentation while working on `theme.json` files.
+
 
 ### Loading Preference (lowest to highest)
 - `wp-includes/theme.json` -  defines the default settings and styles.
@@ -27,7 +45,7 @@
 - `User Configured` - Within the Site Editor any changes that are added to the database through changes made to global styles or even templates and saved. This will override and takes priority over all other levels in the hierarchy.
 
 ### What does appearanceTools do ?
-The appearanceTools setting in WordPress, specifically in theme.json, enables users to access additional styling options in the Site Editor or Block Editor. When set to true, it unlocks controls for customizing colors, typography (font size, line height), spacing (margin, padding), and other design settings. This setting helps users tweak the look and feel of individual blocks and overall site styles more freely, making theme customization more flexible without custom code.
+The appearanceTools setting in WordPress, specifically in theme.json, enables users to access additional styling options in the Site Editor or Block Editor. When set to true, it unlocks controls for customizing colors, typography (font size, line height), spacing (margin, padding), and other design settings. This setting helps users tweak the look and feel of individual blocks and overall site styles more freely, making theme customization more flexible without custom code. [Read more...](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-v2/#appearancetools) 
 
 ## Creating templates
 #### Common Templates

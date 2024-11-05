@@ -14,9 +14,9 @@
   - [Theme Blocks](#theme-blocks)
   - [Custom Block Example](#custom-block-example)
 
-## Theme.json Configuration
+## Theme.json 
+It allows you to control which settings get displayed, and also define certain default values for styles. This styling mechanism is build on CSS custom properties.
 Theme.json is the foundation of block themes, controlling:
-
 - 🎨 Global styles and typography
 - ⚙️ Block-level settings
 - 🎯 Custom properties
@@ -80,21 +80,3 @@ Control site-wide appearance through:
 - Requires maintenance
 - Created using block.json
 
-### Custom Block Example
-```json
-{
-    "apiVersion": 2,
-    "name": "mytheme/custom-block",
-    "title": "Custom Block",
-    "category": "widgets",
-    "icon": "smiley",
-    "description": "A custom block example",
-    "supports": {
-        "html": false
-    },
-    "textdomain": "mytheme",
-    "editorScript": "file:./index.js",
-    "editorStyle": "file:./index.css",
-    "style": "file:./style-index.css"
-}
-```
